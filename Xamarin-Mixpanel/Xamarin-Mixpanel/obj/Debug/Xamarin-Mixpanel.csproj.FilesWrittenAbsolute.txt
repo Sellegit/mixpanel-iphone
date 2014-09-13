@@ -1,0 +1,5 @@
+/Users/dementrock/Sellegit/peach_mobile/Lib/mixpanel-iphone/Xamarin-Mixpanel/Xamarin-Mixpanel/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/dementrock/Sellegit/peach_mobile/Lib/mixpanel-iphone/Xamarin-Mixpanel/Xamarin-Mixpanel/bin/Debug/Xamarin-Mixpanel.dll.mdb
+/Users/dementrock/Sellegit/peach_mobile/Lib/mixpanel-iphone/Xamarin-Mixpanel/Xamarin-Mixpanel/bin/Debug/Xamarin-Mixpanel.dll
+/Users/dementrock/Sellegit/peach_mobile/Lib/mixpanel-iphone/Xamarin-Mixpanel/Xamarin-Mixpanel/obj/Debug/Xamarin-Mixpanel.dll
+/Users/dementrock/Sellegit/peach_mobile/Lib/mixpanel-iphone/Xamarin-Mixpanel/Xamarin-Mixpanel/obj/Debug/Xamarin-Mixpanel.dll.mdb
